@@ -42,4 +42,7 @@ The dashboard includes the following visual elements:
 
 Users can interact with the dashboard using slicers for:
 - Outlet Location Type
-- Outlet Size 
+- Outlet Size
+
+## Snapshot of the Dashboard
+<img width="1263" height="688" alt="Image" src="https://github.com/user-attachments/assets/f7db8823-28a9-4ac4-a87e-fc55ce2fff50" />
